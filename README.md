@@ -2,6 +2,16 @@
 
 Bu proje, basit bir Todo List uygulamasıdır. Kullanıcılar, görevler ekleyebilir, kategorilere ayırabilir ve görevleri silebilir. Ayrıca, responsive tasarımı sayesinde mobil ve masaüstü cihazlarda düzgün çalışacak şekilde optimize edilmiştir.
 
+## Ekran Görüntüleri
+
+İşte uygulamanın bazı ekran görüntüleri:
+
+![Screenshot 1](screenshots/Image1.png)
+*Kategori ekleyebileceğiniz ve yeni todo ekleyebileceğiniz Todo List arayüzü.*
+
+![Screenshot 2](screenshots/Image2.png)
+*Seçilen kategoriye yeni bir todo eklenmiş Todo List arayüzü.*
+
 ## Özellikler
 
 - **Kategori Yönetimi:** Kategoriler (Work, Personal, Shopping, Health vb.) eklenebilir ve seçilebilir.
