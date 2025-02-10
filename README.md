@@ -57,6 +57,10 @@ Uygulama başlatıldığında gerekli başlangıç işlemleri ve event listener'
 Tarayıcıda açmak için:
 
 ```sh
-amazon.html dosyasını tarayıcıda açın
+index.html dosyasını tarayıcıda açın
 ```
+
+**📩 İletişim**
+
+Eğer herhangi bir sorunuz veya geri bildiriminiz varsa, benimle iletişime geçmekten çekinmeyin!
 
