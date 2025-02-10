@@ -53,3 +53,10 @@ Uygulama başlatıldığında gerekli başlangıç işlemleri ve event listener'
    ```bash
    git clone https://github.com/kullaniciadi/todo-list-app.git
    cd todo-list-app
+
+Tarayıcıda açmak için:
+
+```sh
+amazon.html dosyasını tarayıcıda açın
+```
+
